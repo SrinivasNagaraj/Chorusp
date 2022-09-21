@@ -14,7 +14,7 @@ import java.util.Properties;
 public class FileUtility {
 	Properties properties;
 	
-
+//vgwsvvw
 public String getDataFromPropertyFile( String key) {
 return properties.getProperty(key).trim();
 }
