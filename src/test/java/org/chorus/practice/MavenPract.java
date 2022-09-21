@@ -15,3 +15,4 @@ public void mavenPract() {
 	webDriverUtility.openBrowserWithApplication(browser,10l,url);
 }
 }
+  
